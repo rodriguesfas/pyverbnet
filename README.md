@@ -1,2 +1,2 @@
 # pyverbnet
-Just one way to use VerbNet with Python
+Python package to provide fast lookups into VerbNet data for NLP solutions.
